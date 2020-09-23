@@ -1,0 +1,9 @@
+Close Window
+Disable Window
+Enable Window
+Get Window's Text
+Set Window as Child
+Set Window as Parent
+Set Window's Text
+Hide Window
+Hide Window
